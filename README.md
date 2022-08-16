@@ -280,3 +280,5 @@ test_suite:
 
 
 
+ECHO is on.
+ECHO is on.
